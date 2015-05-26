@@ -1,6 +1,6 @@
 FROM       dockerfile/java:oracle-java7
 #MAINTAINER Sonatype <cloud-ops@sonatype.com>
-MAINTAINER david.crosson@orange.com
+MAINTAINER crosson.david@gmail.com
 
 ENV SONATYPE_WORK /sonatype-work
 ENV NEXUS_VERSION 2.11.2-06
