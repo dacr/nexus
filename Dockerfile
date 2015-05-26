@@ -1,4 +1,4 @@
-FROM       dockerfile/java:oracle-java7
+FROM       java:7-jre
 #MAINTAINER Sonatype <cloud-ops@sonatype.com>
 MAINTAINER crosson.david@gmail.com
 
